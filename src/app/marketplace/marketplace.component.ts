@@ -5,11 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './marketplace.component.html',
   styleUrls: ['./marketplace.component.css']
 })
-export class MarketplaceComponent implements OnInit {
+export class MarketplaceComponent {
 
-  constructor() { }
-
-  ngOnInit() {
-  }
 
 }
